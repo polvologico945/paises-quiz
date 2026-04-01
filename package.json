@@ -1,0 +1,24 @@
+{
+  "name": "paises-quiz",
+  "version": "1.0.0",
+  "description": "Este é um projeto construído com uma proposta divertida e passageira, aproveitando recursos de JS em um teste de nível 1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polvologico945/paises-quiz.git"
+  },
+  "keywords": [],
+  "author": "Carla Evelyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polvologico945/paises-quiz/issues"
+  },
+  "homepage": "https://github.com/polvologico945/paises-quiz#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.20.0"
+  }
+}
