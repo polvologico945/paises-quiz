@@ -1,10 +1,12 @@
 {
   "name": "paises-quiz",
   "version": "1.0.0",
+  "type": "module",
   "description": "Este é um projeto construído com uma proposta divertida e passageira, aproveitando recursos de JS em um teste de nível 1.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,6 @@
   "dependencies": {
     "express": "^5.2.1",
     "pg": "^8.20.0"
-  }
+  },
+  "devDependencies": {}
 }
